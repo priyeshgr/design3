@@ -10049,14 +10049,26 @@ h6,
     text-align: center !important;
     margin: -80px 15px;
 	}
+
+  .fa-social {
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 1.8rem !important;
+    /* margin-top: 140% !important; */
+  }
 }
 
-.fa-social {
+  .fa-social {
   text-align: center !important;
   text-decoration: none !important;
   display: inline-block;
   list-style-type: none;
   font-size: 1.8rem !important;
+  /* margin-top: 30% !important; */
 }
 
-
+.social-icon:hover {
+  color: #062c33 !important;
+}
